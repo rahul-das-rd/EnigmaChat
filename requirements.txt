@@ -3,7 +3,4 @@ colorama
 argparse
 
 
-where is that document smith?
-
-
 
