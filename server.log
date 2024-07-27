@@ -1,0 +1,38 @@
+2024-04-24 02:19:04,275 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 02:19:25,518 [INFO] - Accepted connection from ('127.0.0.1', 56297)
+2024-04-24 02:20:23,172 [INFO] - Accepted connection from ('127.0.0.1', 56311)
+2024-04-24 02:23:42,106 [INFO] - The user left: das1
+2024-04-24 02:24:33,713 [INFO] - The user left: Rahul
+2024-04-24 02:38:45,171 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 02:38:49,404 [INFO] - Accepted connection from ('127.0.0.1', 56597)
+2024-04-24 02:39:06,656 [INFO] - Accepted connection from ('127.0.0.1', 56606)
+2024-04-24 02:39:12,027 [INFO] - Accepted connection from ('127.0.0.1', 56607)
+2024-04-24 02:43:46,335 [INFO] - The user left: User33
+2024-04-24 02:43:55,279 [INFO] - The user left: User22
+2024-04-24 02:43:59,067 [INFO] - The user left: User11
+2024-04-24 02:50:00,346 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 02:50:05,260 [INFO] - Accepted connection from ('127.0.0.1', 56783)
+2024-04-24 02:50:27,234 [INFO] - Accepted connection from ('127.0.0.1', 56785)
+2024-04-24 02:50:30,700 [INFO] - Accepted connection from ('127.0.0.1', 56786)
+2024-04-24 15:25:23,580 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 15:25:37,304 [ERROR] - An error occurred: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-04-24 15:25:51,285 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 15:25:57,130 [INFO] - Accepted connection from ('127.0.0.1', 51908)
+2024-04-24 15:26:04,670 [INFO] - Accepted connection from ('127.0.0.1', 51910)
+2024-04-24 15:26:48,521 [INFO] - The user left: www
+2024-04-24 15:26:52,332 [INFO] - The user left: qqqq
+2024-04-24 16:46:17,979 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 16:46:31,699 [INFO] - Accepted connection from ('127.0.0.1', 51089)
+2024-04-24 16:46:42,981 [INFO] - Accepted connection from ('127.0.0.1', 51090)
+2024-04-24 17:54:03,725 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 17:54:07,917 [INFO] - Accepted connection from ('127.0.0.1', 52426)
+2024-04-24 17:54:18,761 [INFO] - Accepted connection from ('127.0.0.1', 52428)
+2024-04-24 17:54:42,550 [INFO] - The user left: rahul
+2024-04-24 18:12:28,509 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 18:12:34,326 [INFO] - Accepted connection from ('127.0.0.1', 53210)
+2024-04-24 18:12:46,231 [INFO] - Accepted connection from ('127.0.0.1', 53212)
+2024-04-24 18:13:32,828 [INFO] - The user left: 2
+2024-04-24 18:13:35,148 [INFO] - The user left: 1
+2024-04-24 18:47:47,675 [INFO] - Server started on 0.0.0.0:12345
+2024-04-24 18:52:31,219 [INFO] - Accepted connection from ('127.0.0.1', 49963)
+2024-04-24 18:52:44,031 [INFO] - Accepted connection from ('127.0.0.1', 49978)
